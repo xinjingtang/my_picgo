@@ -1,2 +1,2 @@
 # my_picgo
-sean`s picgo
+tangxinjing`s picgo
